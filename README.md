@@ -2,7 +2,7 @@
 
 **Data Scientist** | **Machine Learning Engineer** | **Radar Engineering Graduate**
 
-![ML GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![ML GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)![ML GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
