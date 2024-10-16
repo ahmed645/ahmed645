@@ -47,9 +47,8 @@ I am a passionate **Data Scientist** and **Machine Learning Engineer** with a so
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/ahmedshaltoot)  
-- 💻 [GitHub](https://github.com/your-github-profile)  
-- ✉️ ahmed.shaltout@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/ahmedshaltoot)   
+- ✉️ ahmed.shaltoot81@gmail.com.com
 
 ---
 
